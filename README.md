@@ -1,69 +1,66 @@
-Coding Samurai Internship – Business Analytics Projects
+# Business Analytics Internship — Coding Samurai
 
-Welcome to my Business Analytics Internship Portfolio with Coding Samurai.
-This repository showcases three major projects I worked on, focusing on data analysis, visualization, and insights generation using Excel.
+## Overview
+Three end-to-end business analytics projects completed during my internship with Coding Samurai. Each project involved real-world datasets, Excel dashboard design, KPI tracking, and actionable business recommendations.
 
-Each project involved working with real-world datasets, performing trend analysis, and designing interactive dashboards that provide clear business insights and actionable recommendations.
+## Tools Used
+- Microsoft Excel (Pivot Tables, Charts, Forecasting, Conditional Formatting)
+- Dashboard Design & Data Storytelling
+- Business Analytics: KPI tracking, trend analysis, forecasting
 
-🔹 Project 1: Retail Sales Metrics Dashboard
+---
 
-Objective: Analyze retail sales data to uncover performance trends.
+## Project 1: Retail Sales Metrics Dashboard
 
-KPIs: Total Revenue (₦85M), Profit (₦32.2M), Profit Margin (38%).
+**Objective:** Analyze retail sales data to uncover performance trends across demographics and geographies.
 
-Dashboard Highlights:
+| KPI | Value |
+|---|---|
+| Total Revenue | ₦85M |
+| Profit | ₦32.2M |
+| Profit Margin | 38% |
 
-Sales by Country, Gender, and Age-group.
+**Key Insight:** US and Australia are top markets; Adults (35–64) dominate sales; 38% profit margin reflects strong operational efficiency.
 
-Monthly Sales Trend visualization.
+---
 
-Top 5 Products Sold.
+## Project 2: Monthly Sales Trend Analysis
 
-Key Insight: US and Australia are top contributors; Adults (35–64) dominate sales; Profit margin is strong at 38%.
+**Objective:** Track sales performance against targets and identify regional strengths and weaknesses.
 
-🔹 Project 2: Monthly Sales Trend Analysis
+| KPI | Value |
+|---|---|
+| Total Sales | $68,495 |
+| Total Customers | 3,787 |
+| Best Month | October |
+| Worst Month | September |
 
-Objective: Track sales performance against targets and identify regional strengths/weaknesses.
+**Key Insight:** Sales were 5% below target; East region outperformed; North underperformed — targeted regional strategy recommended.
 
-KPIs: Total Sales ($68,495), Customers (3,787), Best Month (October), Worst Month (September).
+---
 
-Dashboard Highlights:
+## Project 3: Sales Prediction Dashboard
 
-Sales by Region, Sales vs Target, Customers Trend.
+**Objective:** Forecast future sales using historical trends and deliver actionable recommendations.
 
-Sales by Quarter and Monthly Sales Trend.
+| KPI | Value |
+|---|---|
+| Revenue | ₦70M |
+| Avg Monthly Sales | 70,330 |
+| Next Month Forecast | $3.7M |
 
-Key Insights & Recommendations panel.
+**Key Insight:** Sales dropped sharply in Jan 2024 (-99%) but forecast shows recovery in Feb 2024. Clothing and Furniture lead; Food underperforms.
 
-Key Insight: Sales were 5% below target; East region performed best, North underperformed; October was the strongest month while September saw the lowest sales.
+---
 
-🔹 Project 3: Sales Prediction Dashboard
+## Dashboard Preview
+> Screenshots coming soon — download the Excel files to explore the interactive dashboards.
 
-Objective: Forecast future sales using trend analysis and provide business recommendations.
+## How to Use
+1. Download the Excel files from each task folder
+2. Open in Microsoft Excel (2016 or later)
+3. Use slicers and filters to explore the dashboards interactively
 
-KPIs: Revenue (₦70M), Avg. Monthly Sales (70,330), Next Month Forecast ($3.7M), MoM (-99%), YoY (-99%).
-
-Dashboard Highlights:
-
-Historical Sales Trend with Forecasting.
-
-Revenue Contribution by Category (%).
-
-Top Products Analysis.
-
-Key Insights & Recommendations panel.
-
-Key Insight: Sales dropped sharply in Jan 2024 (-99%), but forecast shows recovery in Feb 2024. Clothing and Furniture lead sales, while Food underperforms.
-
-🛠 Tools & Skills Used
-
-Excel: Pivot Tables, Charts, Forecasting, Conditional Formatting, Dashboard Design.
-
-Business Analytics: Sales trend analysis, KPI tracking, forecasting models, and actionable insights.
-
-Data Visualization: Clear storytelling with charts, KPI cards, and insights panels.
-
-📌 Conclusion
-
-This internship allowed me to strengthen my data analytics and visualization skills, while also learning how to translate numbers into business strategies.
-The dashboards not only display performance but also recommend actions, bridging the gap between data and decision-making.
+---
+*Coding Samurai Business Analytics Internship*
+*Data Analyst: Ajibola Modupe Abigail | Lagos, Nigeria*
